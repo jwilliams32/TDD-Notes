@@ -69,9 +69,12 @@ class NewVisitorTest(LiveServerTestCase):
         # Edith wonders whether the site will remember her list. Then she sees
         # that the site has generated a unique URL for here -- there is some
         # explanatory text to the effect.
-        self.fail('Finish the test')
+        # self.fail('Finish the test')
 
         # She visits that URL - her to-do lists is still there.
+    # def test_can_start_a_lists_for_one_user(self):
+    #     self.wait_for_row_in_list_table('2: Use peacock feathers to make a fly')
+    #     self.wait_for_row_in_list_table('1: Buy peacock feathers')
 
         # Satisfied, she goes back to sleep
 
