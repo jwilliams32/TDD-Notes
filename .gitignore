@@ -1,0 +1,12 @@
+db.sqlite3
+geckodriver.log
+venv
+__pycache__
+*.pyc
+.idea
+*.idea
+.idea/workspace.xml
+.idea/misc.xml
+.idea/Notes.iml
+.idea/modules.xml
+.idea/vcs.xml
